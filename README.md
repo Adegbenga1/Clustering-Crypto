@@ -31,7 +31,7 @@
 # Visualizing Cryptocurrencies Results
 
 # 3D-Scatter with Cluster
-![image](https://user-images.githubusercontent.com/70987568/139555589-c50b7525-a585-4de6-9f10-8578a10c638c.png)
+![image](https://user-images.githubusercontent.com/70987568/139560931-5e27ed54-0e5b-4242-8e4e-c2b9de42d6ef.png)
 
 ![image](https://user-images.githubusercontent.com/70987568/139555594-c675b0f7-2701-40ce-9870-a383abe634bb.png)
 
