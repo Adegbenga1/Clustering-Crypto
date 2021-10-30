@@ -1,4 +1,7 @@
 # Clustering-Crypto
+# Overview
+
+# Results
 
 # Preprocessing the Data for PCA
 
@@ -35,4 +38,4 @@
 ![image](https://user-images.githubusercontent.com/70987568/139556293-405b17b0-c11b-450a-9629-03cae045e291.png)
 
 
-
+# Summary
