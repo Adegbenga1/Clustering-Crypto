@@ -1,20 +1,21 @@
 # Clustering-Crypto
 
 # Preprocessing the Data for PCA
-![image](https://user-images.githubusercontent.com/70987568/139540669-637b34ce-eac1-4e9b-9701-4c3181e8e6e7.png)
 
-![image](https://user-images.githubusercontent.com/70987568/139540691-50e3a901-949f-42fa-b69b-5e09b4a62246.png)
+![image](https://user-images.githubusercontent.com/70987568/139556231-fa132e83-b774-4689-b514-eb7bdda56d65.png)
 
-![image](https://user-images.githubusercontent.com/70987568/139540698-ab545c9b-0c5b-437b-9feb-1e499da1a49f.png)
+![image](https://user-images.githubusercontent.com/70987568/139556240-16e44a68-3a47-44f9-875d-48e0c727d61a.png)
 
-![image](https://user-images.githubusercontent.com/70987568/139540705-a7bf7ba4-7cd7-4d83-8deb-4216a246c32a.png)
+![image](https://user-images.githubusercontent.com/70987568/139556247-1cc88af3-47da-4581-8c74-e855b4c7ccfc.png)
 
-![image](https://user-images.githubusercontent.com/70987568/139540725-637aece5-eed9-4259-9f86-5bc10a918a43.png)
+# Reducing Data Dimensions Using PCA
 
-![image](https://user-images.githubusercontent.com/70987568/139540876-18fbf598-009c-439d-8b90-2e813281c493.png)
-
+![image](https://user-images.githubusercontent.com/70987568/139556267-25b91134-e0df-458d-9e14-c2f67c420438.png)
 
 # Clustering Crytocurrencies Using K-Means
+
+![image](https://user-images.githubusercontent.com/70987568/139556278-356b0d8b-70cc-4cdb-be62-d2f687797148.png)
+
 ![image](https://user-images.githubusercontent.com/70987568/139555564-4f3bab4d-0e42-4832-919a-3b37104e3507.png)
 
 ![image](https://user-images.githubusercontent.com/70987568/139555572-d1fa2e4c-5ec3-4553-af81-7720533d52bc.png)
