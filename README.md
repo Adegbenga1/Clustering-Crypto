@@ -13,12 +13,11 @@
 
 ![image](https://user-images.githubusercontent.com/70987568/139540876-18fbf598-009c-439d-8b90-2e813281c493.png)
 
+
+# Clustering Crytocurrencies Using K-Means
 ![image](https://user-images.githubusercontent.com/70987568/139555564-4f3bab4d-0e42-4832-919a-3b37104e3507.png)
 
 ![image](https://user-images.githubusercontent.com/70987568/139555572-d1fa2e4c-5ec3-4553-af81-7720533d52bc.png)
-
-
-# Clustering Crytocurrencies Using K-Means
 
 ![image](https://user-images.githubusercontent.com/70987568/139555682-182a62d3-79aa-4e81-b516-6ae607da4962.png)
 
