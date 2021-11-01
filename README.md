@@ -40,12 +40,13 @@
 
 ![image](https://user-images.githubusercontent.com/70987568/139555594-c675b0f7-2701-40ce-9870-a383abe634bb.png)
 
-![image](https://user-images.githubusercontent.com/70987568/139556293-405b17b0-c11b-450a-9629-03cae045e291.png)
+
 
 
 # Summary
   In order to offer  a new cryptocurrency investment portfolio for customers, we have been able to show 
   the cryptocurrencies that are trading in the market . The final output listed the coins that are grouped into 
   three majoer components based on  distinct groups and tradable cryptocurrencies.
+  
   ![image](https://user-images.githubusercontent.com/70987568/139612080-e9a7e4bd-5cbc-4b5d-8d39-3fd08eee2283.png)
 
