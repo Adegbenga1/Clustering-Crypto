@@ -1,8 +1,13 @@
 # Clustering-Crypto
 # Overview
-
+   Analysis of cryptocurrencies in  the trading market and how they could be grouped to create a classification 
+   system for this new investment.
+   
 # Results
-
+  clustering algorithm was used in grouping cryptocurrencies into a formidable classification system that comprised of steps that
+  requires data cleansing and analysis. We used unsupervised learning  to process data,cluster,  reduce your dimensions, 
+  and reduce the principal components using Principal Component Analysis (PCA)
+  
 # Preprocessing the Data for PCA
 
 ![image](https://user-images.githubusercontent.com/70987568/139556231-fa132e83-b774-4689-b514-eb7bdda56d65.png)
@@ -39,3 +44,8 @@
 
 
 # Summary
+  In order to offer  a new cryptocurrency investment portfolio for customers, we have been able to show 
+  the cryptocurrencies that are trading in the market . The final output listed the coins that are grouped into 
+  three majoer components based on  distinct groups and tradable cryptocurrencies.
+  ![image](https://user-images.githubusercontent.com/70987568/139612080-e9a7e4bd-5cbc-4b5d-8d39-3fd08eee2283.png)
+
